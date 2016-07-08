@@ -1,4 +1,4 @@
-# Desktop-Google-Keep-OSX
+# Desktop Google Keep OSX
 A Super Simple Desktop Client for Mac OSX Built in Javascript and MacGap
 
 # Why
