@@ -12,3 +12,6 @@ Build using instructions on [MacGap-rb] (https://github.com/maccman/macgap-rb)
 
 # Run
 Click the pretty icon :)
+
+# More
+Check out the [project page] (https://chriskol.github.io/Desktop-Google-Keep-OSX/) for latest release binaries and stuff.
