@@ -1,0 +1,8 @@
+title: Google Docs Desktop OSX
+description: " A Super Simple Google Docs Desktop Client for Mac OSX Built in Javascript and MacGap"
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-tactile
+
+gems:
+  - jekyll-mentions
