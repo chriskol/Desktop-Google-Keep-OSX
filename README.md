@@ -16,4 +16,4 @@ Click the pretty icon :)
 # More
 Check out the [project page] (https://chriskol.github.io/Desktop-Google-Keep-OSX/) for latest release binaries and stuff.
 
-Also check out the same thing for Google Docs at [Google Docs Desktop for OSX] (https://github.com/chriskol/Google-Docs-Desktop-OSX) or its [project page] (https://chriskol.github.io/Desktop-Google-Keep-OSX/)for latest binaries here
+Also check out the same thing for Google Docs at [Google Docs Desktop for OSX] (https://github.com/chriskol/Google-Docs-Desktop-OSX) or its [project page] (https://chriskol.github.io/Google-Docs-Desktop-OSX/) for latest binaries here
