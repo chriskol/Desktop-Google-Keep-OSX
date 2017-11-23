@@ -1,4 +1,4 @@
-# Desktop Google Keep OSX
+# Google Keep Desktop OSX
 A Super Simple Desktop Client for Mac OSX Built in Javascript and MacGap
 
 # Why
@@ -16,4 +16,6 @@ Click the pretty icon :)
 # More
 Check out the [project page](https://chriskol.github.io/Desktop-Google-Keep-OSX/) for latest release binaries and stuff.
 
-Also check out the same thing for Google Docs at [Google Docs Desktop for OSX](https://github.com/chriskol/Google-Docs-Desktop-OSX) or its [project page](https://chriskol.github.io/Google-Docs-Desktop-OSX/) for latest binaries here
+Also check out the same thing for Google Docs at [Google Docs Desktop OSX](https://github.com/chriskol/Google-Docs-Desktop-OSX) or its [project page](https://chriskol.github.io/Google-Docs-Desktop-OSX/) for latest binaries here
+
+Also check out the same thing for Google Drive at [Google Drive Desktop OSX](https://github.com/chriskol/Google-Drive-Desktop-OSX).
