@@ -19,6 +19,13 @@ Build using instructions on [MacGap-rb](https://github.com/maccman/macgap-rb)
 # Run
 Click the pretty icon :)
 
+# Troubleshooting
+Some Quarantine/Gatekeeper issues have been reported with regard to using the binaries on the release page.  As mentioned above, please build from source as this should prevent any issues.  If you're determined to use the binary on the release page, you may try (as per @gregglind):
+```
+# assuming you moved the app bundle to /Applications
+sudo xattr -r -d com.apple.quarantine /Applications/Desktop-Google-Keep-OSX.app
+```
+
 # More
 Check out the [project page](https://chriskol.github.io/Desktop-Google-Keep-OSX/) for latest release binaries and stuff.
 
