@@ -10,6 +10,21 @@ It's one line of code to wrap Google Keep in an app window made possible by [Mac
 # Build
 Build using instructions on [MacGap-rb](https://github.com/maccman/macgap-rb)
 
+### Usage
+
+    gem install macgap
+    
+    # macgap new DIR
+    # macgap build DIR
+    
+For example, to create a new MacGap app use the `new` command:
+
+    macgap new MyApp
+    
+To build a MacGap app use the `build` command, specifying the app's directory.
+    
+    macgap build MyApp
+
 *Note: I'd recommend against using the binary releases at this point.  There have been issues with people downloading them and using them on different versions of OSX from what I've compiled them on and it causing problems.*
 
 *That is, me compiling on whatever version of OSX I'm running can cause problems for you if you aren't running on the same version.  As I'm not sure what the future holds in terms of me or users of the app being up to date on the latest OSX, I'm just going to stop making releases for the foreseeable future and avoid issues.*
