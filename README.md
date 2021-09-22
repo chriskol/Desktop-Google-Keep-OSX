@@ -19,11 +19,11 @@ Build using instructions on [MacGap-rb](https://github.com/maccman/macgap-rb)
     
 For example, to create a new MacGap app use the `new` command:
 
-    macgap new MyApp
+    macgap new DesktopKeep
     
 To build a MacGap app use the `build` command, specifying the app's directory.
     
-    macgap build MyApp
+    macgap build DesktopKeep
 
 *Note: I'd recommend against using the binary releases at this point.  There have been issues with people downloading them and using them on different versions of OSX from what I've compiled them on and it causing problems.*
 
