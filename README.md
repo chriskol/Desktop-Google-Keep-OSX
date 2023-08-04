@@ -25,7 +25,7 @@ To build a MacGap app use the `build` command, specifying the app's directory.
     
     macgap build DesktopKeep
 
-*Note: I'd recommend against using the binary releases at this point.  There have been issues with people downloading them and using them on different versions of OSX from what I've compiled them on and it causing problems.*
+***Note: I'd recommend against using the binary releases at this point.  There have been issues with people downloading them and using them on different versions of OSX from what I've compiled them on and it causing problems.***
 
 *That is, me compiling on whatever version of OSX I'm running can cause problems for you if you aren't running on the same version.  As I'm not sure what the future holds in terms of me or users of the app being up to date on the latest OSX, I'm just going to stop making releases for the foreseeable future and avoid issues.*
 
